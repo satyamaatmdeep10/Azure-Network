@@ -1,2 +1,0 @@
-### Overview
-The task involves setting up a virtual machine running Ubuntu, installing Docker, pulling the hshar/webapp repository, creating a new file within it, and modifying existing files within a Docker container. After creating and modifying files, the changes should be uploaded to GitHub.
